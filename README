@@ -2,7 +2,7 @@ NAME
     Bot::BasicBot::Pluggable::Module::JIRA - Access JIRA via IRC!
 
 VERSION
-    This POD describes version 0.01
+    This POD describes version 0.02
 
 SYNOPSIS
     You will need to load the module into your instance:
